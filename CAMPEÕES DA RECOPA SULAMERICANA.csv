@@ -1,4 +1,4 @@
-Campeão;País;Ano;Partidas;Vitórias;Empates;Derrotas;Gols Feitos;Gols Sofridos
+CampeÃ£o;PaÃ­s;Ano;Partidas;VitÃ³rias;Empates;Derrotas;Gols Feitos;Gols Sofridos
 Racing;Argentina;2025;2;2;0;0;4;0
 Fluminense;Brasil;2024;2;1;0;1;2;1
 Independiente del Valle;Equador;2023;2;1;0;1;1;1
@@ -6,11 +6,11 @@ Palmeiras;Brasil;2022;2;1;1;0;4;2
 Defensa y Justicia;Argentina;2021;2;1;0;1;3;3
 Flamengo;Brasil;2020;2;1;1;0;5;2
 River Plate;Argentina;2019;2;1;0;1;3;1
-Grêmio;Brasil;2018;2;0;2;0;1;1
-Atlético Nacional;Colômbia;2017;2;1;0;1;5;3
+GrÃªmio;Brasil;2018;2;0;2;0;1;1
+AtlÃ©tico Nacional;ColÃ´mbia;2017;2;1;0;1;5;3
 River Plate;Argentina;2016;2;1;1;0;2;1
 River Plate;Argentina;2015;2;2;0;0;2;0
-Atlético Mineiro;Brasil;2014;2;1;0;1;5;3
+AtlÃ©tico Mineiro;Brasil;2014;2;1;0;1;5;3
 Corinthians;Brasil;2013;2;2;0;0;4;1
 Santos;Brasil;2012;2;1;1;0;2;0
 Internacional;Brasil;2011;2;1;0;1;4;3
@@ -23,12 +23,13 @@ Boca Juniors;Argentina;2005;2;1;0;1;4;3
 Cienciano;Peru;2004;1;0;1;0;1;1
 Olimpia;Paraguai;2003;1;1;0;0;2;0
 Cruzeiro;Brasil;1998;2;2;0;0;5;1
-Vélez Sarsfield;Argentina;1997;2;0;1;1;2;4
-Grêmio;Brasil;1996;1;1;0;0;4;1
+VÃ©lez Sarsfield;Argentina;1997;2;0;1;1;2;4
+GrÃªmio;Brasil;1996;1;1;0;0;4;1
 Independiente;Argentina;1995;1;1;0;0;1;0
-São Paulo;Brasil;1994;2;1;0;1;4;4
-São Paulo;Brasil;1993;2;0;2;0;0;0
+SÃ£o Paulo;Brasil;1994;2;1;0;1;4;4
+SÃ£o Paulo;Brasil;1993;2;0;2;0;0;0
 Colo-Colo;Chile;1992;1;0;1;0;0;0
 Olimpia;Paraguai;1991;0;0;0;0;0;0
 Boca Juniors;Argentina;1990;1;1;0;0;1;0
 Nacional;Uruguai;1989;2;1;1;0;2;1
+
