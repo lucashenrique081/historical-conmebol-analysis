@@ -1,67 +1,69 @@
-Campeão da Libertadores Da América;País;Ano;Partidas;Vitórias;Empates;Derrotas;Gols Feitos;Gols Sofridos
-Flamengo;Brasil;2025;13;8;3;1;12;7
-Botafogo;Brasil;2024;14;8;4;2;23;9
-Fluminense;Brasil;2023;13;8;3;2;24;12
-Flamengo;Brasil;2022;13;12;1;0;33;8
-Palmeiras;Brasil;2021;13;9;3;1;30;11
-Palmeiras;Brasil;2020;13;10;2;1;34;6
-Flamengo;Brasil;2019;13;7;3;3;26;11
-River Plate;Argentina;2018;14;7;6;1;19;9
-Grêmio;Brasil;2017;14;10;1;3;25;8
-Atlético Nacional;Colômbia;2016;14;9;3;2;25;6
-River Plate;Argentina;2015;14;5;7;2;19;9
-San Lorenzo;Argentina;2014;14;7;4;3;17;7
-Atlético Mineiro;Brasil;2013;14;9;2;3;27;15
-Corinthians;Brasil;2012;14;8;6;0;23;4
-Santos;Brasil;2011;14;7;6;1;24;14
-Internacional;Brasil;2010;14;8;3;3;20;12
-Estudiantes;Argentina;2009;16;10;3;3;22;8
-LDU Quito;Equador;2008;14;6;5;3;22;15
-Boca Juniors;Argentina;2007;14;8;3;3;27;12
-Internacional;Brasil;2006;14;8;5;1;24;11
-São Paulo;Brasil;2005;14;9;2;3;30;12
-Once Caldas;Colômbia;2004;14;7;5;2;17;10
-Boca Juniors;Argentina;2003;14;9;2;3;26;15
-Olimpia;Paraguai;2002;14;7;4;3;16;10
-Boca Juniors;Argentina;2001;14;8;3;3;19;14
-Boca Juniors;Argentina;2000;14;7;4;3;31;15
-Palmeiras;Brasil;1999;14;7;1;6;26;22
-Vasco da Gama;Brasil;1998;14;7;4;3;17;8
-Cruzeiro;Brasil;1997;14;9;1;4;20;10
-River Plate;Argentina;1996;14;8;4;2;26;12
-Grêmio;Brasil;1995;14;8;3;3;27;13
-Vélez Sarsfield;Argentina;1994;14;8;3;3;18;9
-São Paulo;Brasil;1993;14;7;3;4;24;11
-São Paulo;Brasil;1992;14;7;4;3;21;11
-Colo-Colo;Chile;1991;14;7;5;2;24;8
-Olimpia;Paraguai;1990;12;6;4;2;21;13
-Atlético Nacional;Colômbia;1989;14;6;6;2;20;12
-Nacional;Uruguai;1988;14;7;6;1;24;11
-Peñarol;Uruguai;1987;12;8;2;2;18;7
-River Plate;Argentina;1986;12;9;2;1;23;8
-Argentinos Juniors;Argentina;1985;14;8;4;2;20;11
-Independiente;Argentina;1984;12;7;4;1;19;8
-Grêmio;Brasil;1983;12;7;3;2;19;12
-Peñarol;Uruguai;1982;12;8;2;2;15;6
-Flamengo;Brasil;1981;8;6;2;0;21;7
-Nacional;Uruguai;1980;12;8;4;0;25;5
-Olimpia;Paraguai;1979;10;7;2;1;18;5
-Boca Juniors;Argentina;1978;8;5;3;0;12;2
-Boca Juniors;Argentina;1977;13;7;5;1;10;3
-Cruzeiro;Brasil;1976;12;10;1;1;36;15
-Independiente;Argentina;1975;8;4;2;2;11;5
-Independiente;Argentina;1974;7;4;2;1;11;5
-Independiente;Argentina;1973;7;4;1;2;8;4
-Independiente;Argentina;1972;8;5;2;1;15;7
-Nacional;Uruguai;1971;8;5;3;0;17;4
-Estudiantes;Argentina;1970;8;6;1;1;13;4
-Estudiantes;Argentina;1969;4;4;0;0;8;1
-Estudiantes;Argentina;1968;7;5;1;1;10;5
-Racing;Argentina;1967;20;14;4;2;42;15
-Peñarol;Uruguai;1966;17;14;1;2;30;10
-Independiente;Argentina;1965;7;4;2;1;12;5
-Independiente;Argentina;1964;7;5;2;0;16;6
-Santos;Brasil;1963;4;3;1;0;11;6
-Santos;Brasil;1962;8;6;1;1;26;9
-Peñarol;Uruguai;1961;6;4;1;1;11;6
-Peñarol;Uruguai;1960;7;3;4;0;13;5
+CampeÃ£o da Libertadores Da AmÃ©rica,PaÃ­s,Ano,Partidas,VitÃ³rias,Empates,Derrotas,Gols Feitos,Gols Sofridos
+Flamengo,Brasil,2025,13,8,3,1,12,7
+Botafogo,Brasil,2024,14,8,4,2,23,9
+Fluminense,Brasil,2023,13,8,3,2,24,12
+Flamengo,Brasil,2022,13,12,1,0,33,8
+Palmeiras,Brasil,2021,13,9,3,1,30,11
+Palmeiras,Brasil,2020,13,10,2,1,34,6
+Flamengo,Brasil,2019,13,7,3,3,26,11
+River Plate,Argentina,2018,14,7,6,1,19,9
+GrÃªmio,Brasil,2017,14,10,1,3,25,8
+AtlÃ©tico Nacional,ColÃ´mbia,2016,14,9,3,2,25,6
+River Plate,Argentina,2015,14,5,7,2,19,9
+San Lorenzo,Argentina,2014,14,7,4,3,17,7
+AtlÃ©tico Mineiro,Brasil,2013,14,9,2,3,27,15
+Corinthians,Brasil,2012,14,8,6,0,23,4
+Santos,Brasil,2011,14,7,6,1,24,14
+Internacional,Brasil,2010,14,8,3,3,20,12
+Estudiantes,Argentina,2009,16,10,3,3,22,8
+LDU Quito,Equador,2008,14,6,5,3,22,15
+Boca Juniors,Argentina,2007,14,8,3,3,27,12
+Internacional,Brasil,2006,14,8,5,1,24,11
+SÃ£o Paulo,Brasil,2005,14,9,2,3,30,12
+Once Caldas,ColÃ´mbia,2004,14,7,5,2,17,10
+Boca Juniors,Argentina,2003,14,9,2,3,26,15
+Olimpia,Paraguai,2002,14,7,4,3,16,10
+Boca Juniors,Argentina,2001,14,8,3,3,19,14
+Boca Juniors,Argentina,2000,14,7,4,3,31,15
+Palmeiras,Brasil,1999,14,7,1,6,26,22
+Vasco da Gama,Brasil,1998,14,7,4,3,17,8
+Cruzeiro,Brasil,1997,14,9,1,4,20,10
+River Plate,Argentina,1996,14,8,4,2,26,12
+GrÃªmio,Brasil,1995,14,8,3,3,27,13
+VÃ©lez Sarsfield,Argentina,1994,14,8,3,3,18,9
+SÃ£o Paulo,Brasil,1993,14,7,3,4,24,11
+SÃ£o Paulo,Brasil,1992,14,7,4,3,21,11
+Colo-Colo,Chile,1991,14,7,5,2,24,8
+Olimpia,Paraguai,1990,12,6,4,2,21,13
+AtlÃ©tico Nacional,ColÃ´mbia,1989,14,6,6,2,20,12
+Nacional,Uruguai,1988,14,7,6,1,24,11
+PeÃ±arol,Uruguai,1987,12,8,2,2,18,7
+River Plate,Argentina,1986,12,9,2,1,23,8
+Argentinos Juniors,Argentina,1985,14,8,4,2,20,11
+Independiente,Argentina,1984,12,7,4,1,19,8
+GrÃªmio,Brasil,1983,12,7,3,2,19,12
+PeÃ±arol,Uruguai,1982,12,8,2,2,15,6
+Flamengo,Brasil,1981,8,6,2,0,21,7
+Nacional,Uruguai,1980,12,8,4,0,25,5
+Olimpia,Paraguai,1979,10,7,2,1,18,5
+Boca Juniors,Argentina,1978,8,5,3,0,12,2
+Boca Juniors,Argentina,1977,13,7,5,1,10,3
+Cruzeiro,Brasil,1976,12,10,1,1,36,15
+Independiente,Argentina,1975,8,4,2,2,11,5
+Independiente,Argentina,1974,7,4,2,1,11,5
+Independiente,Argentina,1973,7,4,1,2,8,4
+Independiente,Argentina,1972,8,5,2,1,15,7
+Nacional,Uruguai,1971,8,5,3,0,17,4
+Estudiantes,Argentina,1970,8,6,1,1,13,4
+Estudiantes,Argentina,1969,4,4,0,0,8,1
+Estudiantes,Argentina,1968,7,5,1,1,10,5
+Racing,Argentina,1967,20,14,4,2,42,15
+PeÃ±arol,Uruguai,1966,17,14,1,2,30,10
+Independiente,Argentina,1965,7,4,2,1,12,5
+Independiente,Argentina,1964,7,5,2,0,16,6
+Santos,Brasil,1963,4,3,1,0,11,6
+Santos,Brasil,1962,8,6,1,1,26,9
+PeÃ±arol,Uruguai,1961,6,4,1,1,11,6
+PeÃ±arol,Uruguai,1960,7,3,4,0,13,5
+
+
